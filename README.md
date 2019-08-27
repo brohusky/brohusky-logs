@@ -1,2 +1,3 @@
-# brohusky-stack
-npm wrapper library to create applications
+# brohusky-logs
+
+npm wrapper library for logging
